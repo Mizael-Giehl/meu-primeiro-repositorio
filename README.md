@@ -4,7 +4,6 @@ Estudante de desenvolvimento focado em construir uma base sólida em tecnologia.
 
 ### 🚀 O que estou aprendendo:
 - **Linguagem:** Java e Lógica de Programação.
-- **Versão:** Git & GitHub.
 
 ---
 
